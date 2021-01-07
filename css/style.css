@@ -1,0 +1,36 @@
+section {
+    width: 75%;
+    position: relative;
+   left: 20%;
+}
+nav {
+
+}
+.check-box {
+   height: 300px;
+    width: 80%;
+    background-image: url(/img/list-bg.png);
+}
+.left {
+    float: left;
+    
+    display: list-item;
+
+}
+.right {
+    float:right;
+}
+p {
+    width: 80%;
+}
+div.last {
+    text-align: left;
+    width: 80%;
+
+}
+div.last img {
+    float: left;
+}
+div.last button {
+    float:right;
+}
